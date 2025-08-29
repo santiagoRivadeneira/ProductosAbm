@@ -1,0 +1,3 @@
+- Para correr la aplicación se necesita abrir la solución ubicada en el proyecto "ProductosAbm"
+- Si se quiere hacer la prueba completa va a ser necesario cambiar la conexión hacia la base de datos local
+- También ejecutar el créate Table, y los store procedures necesarios para su correcto funcionamiento, dentro de la carpeta Docu se encuentran los scripts
