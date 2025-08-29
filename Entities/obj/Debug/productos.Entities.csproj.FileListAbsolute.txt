@@ -1,0 +1,6 @@
+C:\Users\rivadeneira-santiago\source\repos\Entities\bin\Debug\Entities.dll
+C:\Users\rivadeneira-santiago\source\repos\Entities\bin\Debug\Entities.pdb
+C:\Users\rivadeneira-santiago\source\repos\Entities\obj\Debug\productos.Entities.csproj.AssemblyReference.cache
+C:\Users\rivadeneira-santiago\source\repos\Entities\obj\Debug\productos.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rivadeneira-santiago\source\repos\Entities\obj\Debug\Entities.dll
+C:\Users\rivadeneira-santiago\source\repos\Entities\obj\Debug\Entities.pdb

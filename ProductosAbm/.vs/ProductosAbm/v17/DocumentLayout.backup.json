@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64250F0-F537-43FA-AAC3-AF53D299AB2B}|..\\Producto.Datos\\Productos.Datos.csproj|c:\\users\\santi\\onedrive\\escritorio\\prueba\\abm\\producto.datos\\repositorios\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3963399-358E-42C6-A3D7-4C2AF84EA944}|..\\Productos.Negocio\\Productos.Negocio.csproj|c:\\users\\santi\\onedrive\\escritorio\\prueba\\abm\\productos.negocio\\servicios\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|solutionrelative:bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\pages\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|solutionrelative:pages\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\pages\\productostable.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EC39A12F-19F7-4A6B-9CB7-27370960EB9F}|Productos.Web.csproj|solutionrelative:pages\\productostable.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\Producto.Datos\\Repositorios\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Producto.Datos\\Repositorios\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\Producto.Datos\\Repositorios\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Producto.Datos\\Repositorios\\ProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:37:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\Productos.Negocio\\Servicios\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Productos.Negocio\\Servicios\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\Productos.Negocio\\Servicios\\ProductService.cs",
+              "RelativeToolTip": "..\\Productos.Negocio\\Servicios\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:36:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Bundle.config",
+              "RelativeDocumentMoniker": "Bundle.config",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Bundle.config",
+              "RelativeToolTip": "Bundle.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-29T01:35:55.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosTable.ascx",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Pages\\ProductosTable.ascx",
+              "RelativeDocumentMoniker": "Pages\\ProductosTable.ascx",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Pages\\ProductosTable.ascx",
+              "RelativeToolTip": "Pages\\ProductosTable.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-08-29T01:34:24.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Pages\\Productos.aspx",
+              "RelativeDocumentMoniker": "Pages\\Productos.aspx",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Escritorio\\prueba\\abm\\ProductosAbm\\Pages\\Productos.aspx",
+              "RelativeToolTip": "Pages\\Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-29T01:34:12.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

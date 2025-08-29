@@ -1,0 +1,186 @@
+﻿
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px 0;
+}
+
+
+
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* Formulario */
+#formAdd {
+    background-color: #ffffff;
+    padding: 25px 30px;
+    width: 500px;
+    margin: 0 auto 30px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-between;
+}
+
+    #formAdd input, #formAdd select {
+        padding: 10px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+        flex: 1 1 45%;
+        font-size: 14px;
+    }
+
+#btnAdd {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+    flex: 1 1 100%;
+}
+
+    #btnAdd:hover {
+        background-color: #218838;
+    }
+
+/* Tabla */
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+th, td {
+    padding: 14px 18px;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.btnAction {
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #fff;
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+.btnEdit {
+    background-color: #ffc107;
+}
+
+    .btnEdit:hover {
+        background-color: #e0a800;
+    }
+
+.btnDelete {
+    background-color: #dc3545;
+}
+
+.btnCancel {
+    background-color: #dc3545;
+}
+
+    .btnDelete:hover {
+        background-color: #c82333;
+    }
+
+.empty-msg {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+}
+
+
+.edit-input {
+    width: 100%;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+table .btnAction {
+    color: #fff; 
+}
+
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    background-color: #28a745; /* verde */
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    padding: 12px;
+    position: fixed;
+    z-index: 9999;
+    left: 20px; /* margen desde la izquierda */
+    bottom: 20px; /* margen desde abajo */
+    font-size: 14px;
+}
+
+    #snackbar.show {
+        visibility: visible;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    }
+
+@keyframes fadein {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to {
+        bottom: 20px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        bottom: 20px;
+        opacity: 1;
+    }
+
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}
+
+
+
+#panelContainer {
+    width: 85%; /* más ancho que antes */
+    max-width: 1400px; /* no excede en pantallas muy grandes */
+    margin: 20px auto; /* centrado y espacio arriba */
+    padding: 40px 30px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.35);
+}
